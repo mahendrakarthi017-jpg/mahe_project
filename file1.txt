@@ -1,0 +1,1 @@
+git pull commend is used to download the newly added changes from remote to local system 
